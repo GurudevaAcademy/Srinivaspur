@@ -1,0 +1,71 @@
+h2{
+	color: #204051;
+	font-size: 70px;
+	font-family: 'Fondamento',cursive;
+}
+.img-fluid{
+	border-radius: 50%;
+	height: 50%;
+	width: 50%;
+}
+.image{
+	text-align: center;
+	/*height: 80vh;
+*/	min-height: 300px;
+	min-width: 300px;
+	padding-top: 20vh;
+	
+}
+h3{
+	color: #56556E;
+	font-family: 'Lemonada', cursive;
+}
+h4{
+	color: #0F4C75;
+	font-family: 'Chilanka', cursive;
+}
+body{
+	background-color: #F8D0B0;
+}
+.principal{
+	text-align: center;
+	/*height: 170vh;*/
+	min-height: 200px;
+	min-width: 200px;
+	padding-top: 2vh;
+	text-align: center;
+	background-color: #84A9Ac;
+}
+p{
+	text-align: center;
+}
+.contact{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: black;
+	text-decoration-color: rgb('black');
+}
+.courses{
+	background-color: #89C9B8;
+
+}
+.facilities{
+	background-color: #DDDDDD;
+}
+.courses,.facilities,.updates,.principal{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	align-content: left;
+}
+.map{
+	text-align: center;
+}
+.route{
+	border: 5px solid black;
+	/*height: 100%;
+	width: 40%;*/
+}
